@@ -1,0 +1,538 @@
+﻿
+
+****************** mu_royalpalm ******************* 1
+
+*destinate
+Maurice
+
+*title
+ROYAL PALM - Suite Junior
+
+*price 
+530eur pers/ 2 nuits
+
+*date_sejour
+du 1er Avril au 2 Avril 2019
+
+*description
+Ambiance feutrée pour cette suite intime qui décline une palette douce composée de teintes corail ponctuées de quelques touches de rouille.
+
+Décoré avec goût, l’intérieur tout en confort propose un mobilier en bois dont les lignes sobres et élégantes sont mises en valeur par un éclairage très doux et un sol clair de couleur grège.
+La Suite Junior possède également une terrasse privée qui s’ouvre sur le jardin tropical et le lagon.
+Un cocon intime avec vue sur mer pour découvrir le service et la magie du Royal Palm à l’île Maurice.
+
+*Équipements de l’hôtel 
+    • Terrasse
+    • Climatisation
+    • Salle de bain avec baignoire, douche et toilettes séparées
+    • Dressing
+    • Coffre individuel
+    • Téléphone avec ligne directe et accès international
+    • Fax sur demande
+    • WIFI gratuit
+    • Télévision avec chaînes satellitaires
+    • Services de 'Smartphone' et téléphonie gratuits (Pays sélectifs)
+    • Mini-bar gratuit (boissons non-alcoolisées & 2 bières)
+    • Thé et café à disposition
+
+*promotion
+
+*date_start_promotion
+
+*date_end_promotion
+
+*number_available
+10
+
+*number_reserved
+
+*image
+mu_royalpalm1.jpg
+mu_royalpalm2.jpg
+mu_royalpalm3.jpg
+
+*id_user
+
+
+
+
+
+
+****************** mu_dinarobin *******************2
+
+*destinate
+Maurice
+
+*title
+DINAROBIN - Junior Suite
+
+*price 
+350eur pers/ 2 nuits
+
+*date_sejour
+du 1er Avril au 2 Avril 2019
+
+*description
+Pour un séjour harmonie et bien-être, réservez vos vacances à l’île Maurice au Dinarobin Beachcomber Golf Resort & Spa. Bassins en cascades agrémentés d’îlots fleuris, decks de bois spacieux et terrasses face à la mer, jardins tropicaux plantés de cocotiers, frangipaniers et palmiers font du Dinarobin Beachcomber le symbole de l’élégance tropicale à l’île Maurice.
+
+Situé sur le site le plus spectaculaire de l’île Maurice avec la superbe Montagne du Morne en arrière plan, le Dinarobin Beachcomber est entièrement composé de suites luxueuses, regroupées en croissants le long d’une plage de sable fin.
+
+*Équipements de l’hôtel 
+    • Télévision (Chaînes satellitaires)
+    • WIFI gratuit
+    • Téléphone avec ligne directe et accès international
+    • Coffre individuel
+    • Electricité: 220 volts
+    • Sêche-cheveux 
+    • Climatiseur avec réglage individuel
+    • Table et fer à repasser
+    • Dressing
+    • Salle de bains avec baignoire, douche et toilettes séparées
+    • Lits jumeaux
+    • Mini-bar (thé et café offerts)
+    • Accès à la piscine privée du croissant 
+    • Aménagements spécifiques pour bébés et enfants 
+
+
+*promotion
+
+*date_start_promotion
+
+*date_end_promotion
+
+*number_available
+10
+
+*number_reserved
+
+*image
+mu_dinarobin1.jpg
+mu_dinarobin2.jpg
+mu_dinarobin3.jpg
+
+*id_user
+
+
+****************** mu_paradis *******************3
+
+*destinate
+Maurice
+
+*title
+PARADIS - Junior Suite
+
+*price 
+350eur pers/ 2 nuits
+
+*date_sejour
+du 1er Avril au 2 Avril 2019
+
+*description
+Pour un séjour dynamique, combinant sports, loisirs et golf à l’île Maurice, le Paradis Beachcomber Golf Resort & Spa est l’hôtel 5 étoiles qu’il vous faut. Un des plus beaux hôtels de luxe de l’Ile Maurice, il est également situé sur un site spectaculaire, sur la côte sud-ouest.
+
+Adossé à la montagne du Morne au cœur d’une péninsule privée de 150 hectares, le Paradis Beachcomber propose un hébergement composé de chambres, Suites et Villas « pieds dans l’eau ». La plage poudreuse s’étend entre le bleu turquoise du lagon et le vert lumineux du golf international de 18 trous, un des nombreux atouts du Paradis Beachcomber.
+
+*Équipements de l’hôtel 
+    • Télévision (Chaînes satellitaires)
+    • WIFI gratuit
+    • Téléphone avec ligne directe et accès international
+    • Coffre individuel
+    • Electricité: 220 volts
+    • Sêche-cheveux 
+    • Climatiseur avec réglage individuel
+    • Salle de bains avec baignoire, douche et toilettes séparées
+    • Mini-bar (thé et café offerts)
+    • Aménagements spécifiques pour bébés et enfants 
+
+
+*promotion
+
+*date_start_promotion
+
+*date_end_promotion
+
+*number_available
+10
+
+*number_reserved
+
+*image
+mu_paradis1.jpg
+mu_paradis2.jpg
+mu_paradis3.jpg
+
+*id_user
+
+
+
+
+****************** mu_shandrani *******************4
+
+*destinate
+Maurice
+
+*title
+SHANDRANI - suite sénior
+
+*price 
+560eur pers/ 2 nuits
+
+*date_sejour
+du 1er Avril au 2 Avril 2019
+
+*description
+Situé sur la côte sud-est de l’île Maurice, le Shandrani Beachcomber Resort & Spa est l’adresse luxe des séjours « all-inclusive » à l’île Maurice. Une péninsule privée et un parc marin faisant face à la réserve naturelle de l’Ile aux Aigrettes composent le cadre superbement naturel du Shandrani Beachcomber. Trois plages privatives de sable fin invitent à la détente à l’ombre des filaos.
+
+*Équipements de l’hôtel 
+    • Télévision (Chaînes satellitaires)
+    • WIFI gratuit
+    • Téléphone avec ligne directe et accès international
+    • Coffre individuel
+    • Electricité: 220 volts
+    • Sêche-cheveux 
+    • Salle de bains avec baignoire, douche et toilettes séparées
+    • Climatiseur avec réglage individuel
+    • Lit « king size » ou deux lits simples
+    • Mini-bar (thé et café offerts)
+
+
+*promotion
+
+*date_start_promotion
+
+*date_end_promotion
+
+*number_available
+10
+
+*number_reserved
+
+*image
+mu_shandrani1.jpg
+mu_shandrani2.jpg
+mu_shandrani3.jpg
+
+*id_user
+
+
+
+
+
+
+****************** mu_victoria *******************5
+
+*destinate
+Maurice
+
+*title
+VICTORIA - Suite excécutive
+
+*price 
+440eur pers/ 2 nuits
+
+*date_sejour
+du 1er Avril au 2 Avril 2019
+
+*description
+Situé sur le littoral Nord-Ouest de l’île Maurice, face au soleil couchant, Victoria Beachcomber Resort & Spa bénéficie d’un emplacement privilégié à mi chemin entre le village balnéaire de Grand-Baie et Port-Louis, la capitale. Une ambiance chaleureuse, un hébergement moderne et spacieux, des espaces généreux et une gamme d’activités complète pour petits et grands font du Victoria Beachcomber une adresse privilégiée des familles à l’Ile Maurice.
+
+*Équipements de l’hôtel 
+    • Télévision (Chaînes satellitaires)
+    • WIFI gratuit
+    • Téléphone avec ligne directe et accès international
+    • Coffre individuel
+    • Electricité: 220 volts
+    • Sêche-cheveux 
+    • Climatiseur avec réglage individuel
+    • Table et fer à repasser
+    • Dressing
+    • Salle de bains avec baignoire, douche et toilettes séparées
+    • Lits jumeaux
+    • Mini-bar (thé et café offerts)
+    • Accès à la piscine privée du croissant 
+    • Aménagements spécifiques pour bébés et enfants 
+
+
+*promotion
+
+*date_start_promotion
+
+*date_end_promotion
+
+*number_available
+10
+
+*number_reserved
+
+*image
+mu_victoria1.jpg
+mu_victoria2.jpg
+mu_victoria3.jpg
+
+*id_user
+
+
+****************** mu_canonnier *******************6
+
+*destinate
+Maurice
+
+*title
+CANONNIER - chambre standard
+
+*price 
+200eur pers/ 2 nuits
+
+*date_sejour
+du 1er Avril au 2 Avril 2019
+
+*description
+Situé sur une péninsule protégée par une kyrielle de criques, offrant des vues magnifiques face aux îles du Nord, Canonnier Beachcomber Golf Resort & Spa est un des meilleurs hôtels pour les familles à l’île Maurice. Bâti sur un site historique, Canonnier Beachcomber a su en préserver tout le charme et l’authenticité. Ainsi, phare ancien et vestiges de fortifications s’intègrent naturellement aux jardins tropicaux.
+
+*Équipements de l’hôtel 
+    • Télévision (Chaînes satellitaires)
+    • WIFI gratuit
+    • Téléphone avec ligne directe et accès international
+    • Coffre individuel
+    • Electricité: 220 volts
+    • Sêche-cheveux 
+    • Climatiseur avec réglage individuel
+    • Salle de bains avec baignoire, douche et toilettes séparées
+    • Mini-bar (thé et café offerts)
+    • Aménagements spécifiques pour bébés et enfants 
+
+
+*promotion
+
+*date_start_promotion
+
+*date_end_promotion
+
+*number_available
+10
+
+*number_reserved
+
+*image
+mu_canonnier1.jpg
+mu_canonnier2.jpg
+mu_canonnier3.jpg
+
+*id_user
+
+
+
+****************** mu_mauricia *******************7
+
+*destinate
+Maurice
+
+*title
+MAURICIA - chambre standard
+
+*price 
+240eur pers/ 2 nuits
+
+*date_sejour
+du 1er Avril au 2 Avril 2019
+
+*description
+Situé sur la côte la plus ensoleillée de l’île Maurice, Mauricia Beachcomber Resort & Spa est un hôtel plein de charme et de caractère.
+Confort et simplicité définissent cet hôtel 4 étoiles au cachet méditerranéen. Tout a été fait afin que les parties communes s’ouvrent le plus possible sur la baie.
+Un emplacement privilégié au cœur de Grand-Baie, village côtier animé de l’Ile Maurice, permet au Mauricia Beachcomber de séduire une clientèle jeune et dynamique, attirée par les nombreux restaurants, bars, discothèques et boutiques de luxe présents dans cette région de l’île.
+
+*Équipements de l’hôtel 
+    • Télévision (Chaînes satellitaires)
+    • WIFI gratuit
+    • Téléphone avec ligne directe et accès international
+    • Coffre individuel
+    • Electricité: 220 volts
+    • Sêche-cheveux 
+    • Climatiseur avec réglage individuel
+    • Salle de bains avec baignoire, douche et toilettes séparées
+    • Mini-bar (thé et café offerts)
+    • Aménagements spécifiques pour bébés et enfants 
+
+
+*promotion
+
+*date_start_promotion
+
+*date_end_promotion
+
+*number_available
+10
+
+*number_reserved
+
+*image
+mu_mauricia1.jpg
+mu_mauricia2.jpg
+mu_mauricia3.jpg
+
+*id_user
+
+
+****************** mu_mauricia *******************8
+
+*destinate
+Maurice
+
+*title
+MAURICIA - villa
+
+*price 
+850eur unité/ 2 nuits
+
+*date_sejour
+du 1er Avril au 2 Avril 2019
+
+*description
+Unique pour un hôtel 4 étoiles, la villa est la catégorie la plus spacieuse du Mauricia Beachcomber. Située au milieu des jardins luxuriants, elle offre une intimité parfaite.
+
+La villa a été conçue pour permettre aux familles de profiter de moments privilégiés ensemble tout en offrant des espaces où chaque membre peut évoluer sans être dérangé. L’entrée majestueuse s’ouvre pour dévoiler une demeure de vacances spacieuse et confortable. Le décor sobre est rehaussé par des touches de couleurs tropicales à l’intérieur et à l’extérieur, créant une ambiance relaxante et conviviale. La chambre principale donne sur le jardin et la piscine d’un côté et sur une grande salle de bains avec douche, baignoire et dressing de l’autre. La deuxième chambre avec salle de bains attenante a été spécialement conçue pour les enfants. Les familles pourront vivre dehors, à l’ombre de la terrasse méditerranéenne ou dans le jardin privé.
+
+
+*Équipements de l’hôtel 
+    • Télévision (Chaînes satellitaires)
+    • WIFI gratuit
+    • Téléphone avec ligne directe et accès international
+    • Coffre individuel
+    • Electricité: 220 volts
+    • Sêche-cheveux 
+    • Climatiseur avec réglage individuel
+    • Salle de bains avec baignoire, douche et toilettes séparées
+    • Mini-bar (thé et café offerts)
+    • Aménagements spécifiques pour bébés et enfants 
+
+
+*promotion
+
+*date_start_promotion
+
+*date_end_promotion
+
+*number_available
+10
+
+*number_reserved
+
+*image
+mu_mauricia_villa1.jpg
+
+*id_user
+
+
+
+
+****************** mu_royalpalm ******************* 9
+
+*destinate
+Maurice
+
+*title
+ROYAL PALM - Suite Présidentielle
+
+*price 
+2400eur pers/ 1 nuits
+
+*date_sejour
+du 1er Avril au 2 Avril 2019
+
+*description
+Deux chambres, un salon, une grande terrasse et deux salles de bains composent cette suite aux volumes généreux qui redéfinit élégance et sophistication. Un mobilier raffiné et des accessoires sélectionnés avec le plus grand soin habillent la salle de séjour centrale.
+
+Un nuancier de couleurs intenses – bronze, gris-bleu, rouge – associé à des tissus précieux provenant de maisons réputées confèrent au salon sophistication et vitalité. Ce dernier s’ouvre sur une terrasse extérieure proposant un coin salon et une table à manger pour six convives, face à la mer.
+Cocon de douceur dans les tons paille, bronze et dorés, la chambre à coucher est protégée du salon attenant par un rideau de soie.
+Moderne, spacieuse et équipée de meubles suspendus, la salle de bains est dotée d’un puits de lumière.
+Cette suite située face au lagon offre un emplacement de choix pour admirer les couchers de soleil splendides dont la région a le secret.
+La Suite Présidentielle est l’option idéale pour ceux qui privilégient espace et intimité.
+
+*Équipements de l’hôtel 
+    • Télévision avec chaînes satellitaires
+    • Services de 'Smartphone' et téléphonie gratuits (Pays sélectifs)
+    • WIFI gratuit
+    • Téléphone avec ligne directe et accès international
+    • Fax sur demande
+    • Coffre individuel
+    • Dressing
+    • Climatisation
+    • Salle de bain avec baignoire, douche et toilettes séparées
+    • Mini-bar gratuit (boissons non-alcoolisées & 2 bières)
+    • Thé et café à disposition
+    • Terrasse
+
+
+*promotion
+
+*date_start_promotion
+
+*date_end_promotion
+
+*number_available
+10
+
+*number_reserved
+
+*image
+mu_royalpalm_suitepresidentielle.jpg
+
+*id_user
+
+****************** mu_royalpalm ******************* 9
+
+*destinate
+Maurice
+
+*title
+ROYAL PALM - Suite Présidentielle
+
+*price 
+2400eur pers/ 1 nuits
+
+*date_sejour
+du 1er Avril au 2 Avril 2019
+
+*description
+Deux chambres, un salon, une grande terrasse et deux salles de bains composent cette suite aux volumes généreux qui redéfinit élégance et sophistication. Un mobilier raffiné et des accessoires sélectionnés avec le plus grand soin habillent la salle de séjour centrale.
+
+Un nuancier de couleurs intenses – bronze, gris-bleu, rouge – associé à des tissus précieux provenant de maisons réputées confèrent au salon sophistication et vitalité. Ce dernier s’ouvre sur une terrasse extérieure proposant un coin salon et une table à manger pour six convives, face à la mer.
+Cocon de douceur dans les tons paille, bronze et dorés, la chambre à coucher est protégée du salon attenant par un rideau de soie.
+Moderne, spacieuse et équipée de meubles suspendus, la salle de bains est dotée d’un puits de lumière.
+Cette suite située face au lagon offre un emplacement de choix pour admirer les couchers de soleil splendides dont la région a le secret.
+La Suite Présidentielle est l’option idéale pour ceux qui privilégient espace et intimité.
+
+*Équipements de l’hôtel 
+    • Télévision avec chaînes satellitaires
+    • Services de 'Smartphone' et téléphonie gratuits (Pays sélectifs)
+    • WIFI gratuit
+    • Téléphone avec ligne directe et accès international
+    • Fax sur demande
+    • Coffre individuel
+    • Dressing
+    • Climatisation
+    • Salle de bain avec baignoire, douche et toilettes séparées
+    • Mini-bar gratuit (boissons non-alcoolisées & 2 bières)
+    • Thé et café à disposition
+    • Terrasse
+
+
+*promotion
+
+*date_start_promotion
+
+*date_end_promotion
+
+*number_available
+10
+
+*number_reserved
+
+*image
+mu_royalpalm_suitepresidentielle.jpg
+
+*id_user
+
+
+
+

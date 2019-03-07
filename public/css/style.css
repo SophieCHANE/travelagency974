@@ -1,0 +1,386 @@
+main
+{
+    margin-bottom: 0;
+    padding-top: 120px; padding-bottom: 120px;
+}
+body{
+	font-family: 'Roboto', sans-serif;
+}
+
+/* app le navbar*/
+div#app>nav{
+  background-color:white;
+}
+ .navbar-brand {
+  color:#000;
+  font-weight: bolder;
+  font-size: 32pt;
+
+}
+.connexlink{
+	color:#fff;
+}
+#nameTitle{
+  color:#DAA520;
+}
+a{
+
+  font-weight: bolder;
+  font-size: 14pt;
+}
+a:hover{
+    color:#DAA520;
+}
+/* link bottom jumbotron */
+ #home{
+	width:100%; 
+}
+#home > li{  
+	font-size:32pt;
+	margin-left:100px;
+	 display:inline;
+	 color:#DAA520;
+
+}
+/*#home > li > a :hover{
+	text-decoration:none;
+	font-weight:normal;
+}*/
+
+#home > li:nth-first-child(1){
+	margin-right:100px;
+}
+#home > li:nth-last-child(3){
+	margin-left:350px;
+}
+
+
+/*overlay on the main image in jumbotron */
+
+.overlayFront{
+  margin-top:12%;
+  color:#fff;
+  width:50%;
+  padding:10px;
+  margin-left:22%;
+  background: #00000091;
+}
+.imgHeader{
+	background-image: url(../../image/hotel5.jpg);
+	background-size: cover;
+	width: 100%;
+	padding-top: 250px;
+	padding-bottom: 250px;
+        background-attachment: fixed;
+}
+.msgHeader{
+	width: 50%;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	text-align: center;
+	background: linear-gradient(rgba(0,0,0,.8),rgba(0,0,0,0.5));
+	color: white;
+	font-size: 1.5rem;
+}
+.barreNav{
+	font-size: 1.5rem;
+}
+/* ACCUEIL ************/
+/*card destinations*/
+.btnVoirOffre{
+	background-color: #DAA520;
+	color: white;
+	text-align: left;
+	font-weight: bold;
+}
+/*titre*/
+.titreH1{
+	text-align: center;
+	color: #DAA520;
+	padding-top: 40px;
+}
+/* .rowDestination{
+	display:flex;
+	justify-content: space-around;
+} */
+/*div de la carte destination*/
+.cardDestination{
+	border: 0;
+ cursor: pointer;
+}
+/*image de la carte Destination*/
+.cardDes>img{
+/*	width: 250px;*/
+   height: 250px;
+
+	/*margin-top: 30px;*/
+}
+/*nom de la destination (réunion, maurice, seychelles....)*/
+.nomDestination{
+	font-weight: bold;
+	padding-top: 30px;
+}
+/*carte nos Offres*/
+.cardOffres{
+	padding-top: 30px;
+}
+/*image carte nos offres */
+.cardOffres>div>img{
+
+	height: 250px;
+}
+/*VUE destination*/
+/*texte de la vue destination*/
+.textDestination{
+	text-align:justify;
+}
+/*prix de la vue destination*/
+.priceH1{
+	text-align: left;
+	color: #DAA520;
+	padding-top: 40px;
+}
+/*couleur des places restantes*/
+.colorPlace{
+	color: green;
+	font-weight: bold;
+}
+/*bouton RESERVER*/
+.btnReserver{
+	font-weight: bold;
+	color: white;
+	background-color: #DAA520;
+}
+.divBtnReserver{
+	margin-top: 50px;
+	text-align: center;
+}
+/******  responsive *****/
+
+/*************************** LISTE DESTINATE INDEX *******************/
+/*img in table*/
+.destinageListImg>img
+{
+    margin: 3px;
+}
+
+/*card destinations*/
+/*titre*/
+.titreH2{
+	text-align: center;
+	color: #DAA520;
+	/*padding-top: 40px;*/
+}
+.rowDestination{
+	display:flex;
+	justify-content: space-around;
+}
+/*div de la carte destination*/
+.cardDestination{
+	border: 0;
+}
+/*image de la carte Destination*/
+.cardDestination>img{
+	width: 250px; height: 250px;
+	margin-top: 30px;
+}
+/*nom de la destination (réunion, maurice, seychelles....)*/
+.nomDestination{
+	font-weight: bold;
+	padding-top: 30px;
+}
+/*carte nos Offres*/
+.cardOffres{
+	padding-top: 30px;
+}
+/*image carte nos offres */
+.cardOffres>div>img{
+
+	height: 250px;
+}
+/*VUE destination*/
+/*texte de la vue destination*/
+.textDestination{
+	text-align:justify;
+}
+/*prix de la vue destination*/
+.priceH1{
+	text-align: left;
+	color: #DAA520;
+	padding-top: 40px;
+}
+/*couleur des places restantes*/
+.colorPlace{
+	color: green;
+	font-weight: bold;
+}
+/*bouton RESERVER*/
+.btnReserver{
+	font-weight: bold;
+	color: white;
+	background-color: #DAA520;
+}
+.divBtnReserver{
+	margin-top: 50px;
+	text-align: center;
+}
+/*footer*********/
+.bleu{
+	color: #0000FF;
+}
+.dore{
+	color: #DAA520;
+}
+.gras{
+	font-weight: bold;
+}
+footer{
+	background-color: #696969;
+	padding-top: 10px;
+}
+footer>div{
+	text-align: center;
+}
+.footerInfo>div>a{
+	text-align: center;
+	color: white;
+}
+.footerInfo>div>p>a{
+	color: white;
+}
+.footerInfo>div>p{
+	color: white;
+}
+.footerIcon{
+	font-size: 2em;
+	padding-bottom: 8px;
+}
+.copyright{
+	margin-top: 10px;
+}
+.copyright>p{
+    margin-bottom : 0;
+}
+/*footer INFO*/
+.text{
+	text-align: justify;
+}
+.text>div>a{
+	font-size: 2em;
+}
+/*/FOOTER*/
+/*read Destination*/
+.btnDestination{
+	background-color: #DAA520;
+	color: white;
+	text-align: center;
+	font-weight: bold;
+}
+/*tableau de read destination*/
+.tableDestinate {
+border: medium solid #000000;
+width: 100%;
+margin-bottom: 80px;
+
+}
+.tableDestinate td, .tableDestinate th {
+border: thin solid #6495ed;
+}
+.btnRajouter{
+	display: flex;
+	justify-content: flex-end;
+}
+.rouge{
+	color: red;
+	font-weight: bold;
+}
+
+/***************************END  LISTE DESTINATE INDEX *******************/
+
+
+/*SHOW BLADE.PHP*/
+.priceShow{
+	font-size: 2rem;
+	color: red;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 40px;
+}
+.btnRetour{
+	display: flex;
+	text-align: center;
+	align-items: center;
+	justify-content: center;
+}
+.hr50{
+	 border: 0; 
+	 height: 1px; 
+	 background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
+
+/*EDIT BLADE.PHP*/
+.imgEdit{
+	width: 100px;
+        height: 100px;
+	border-top-left-radius: calc(.25rem - 1px);
+	border-top-right-radius: calc(.25rem - 1px);
+}
+
+.btnModifier{
+	background-color: #DAA520;
+	color: white;
+	text-align: center;
+	font-weight: bold;
+}
+
+/*CREATE BLADE.PHP*/
+.btnCreer{
+	background-color: #DAA520;
+	color: white;
+	text-align: center;
+	font-weight: bold;	
+}
+.titre{
+	text-align: center;
+	color: #DAA520;
+}
+.gris{
+	color: grey;
+}
+
+/*HONEYMOON*/
+.honeymoon
+{
+    color: red;
+    padding-top: 200px;padding-bottom: 200px; margin-left: auto; margin-right: auto; font-size: 3rem; background : url('../../image/mu_mauricia_villa1.jpg'); background-size: cover; background-repeat: no-repeat;
+}
+
+
+/***********************                  *********************/
+/*****************          RESPONSIVE         *********************/
+/***********************                   *********************/
+
+@media (max-width: 992px) 
+{
+	.cardOffres{
+		margin-left:0px;
+	} 
+}
+
+
+@media (max-width: 768px) 
+{
+	.cardOffres{
+		margin-left:0px;
+	}
+	.navbar-brand {
+		font-size: 30px;
+	}
+}
+@media (max-width: 576px) 
+{
+	.cardOffres{
+		margin-left:0px;
+	}
+}
+
